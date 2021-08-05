@@ -1,4 +1,4 @@
-# Plex External Player Pot Player
+# Extension
 
 # [中文](#功能) [English](#Function) 
 
