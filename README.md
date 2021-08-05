@@ -10,7 +10,8 @@
 - windows10 (X64)
 ### 安装
 #### 浏览器扩展
-- 
+- [浏览器扩展安装](https://www.tampermonkey.net/)
+- [greasyfork:脚本](https://greasyfork.org/zh-CN/scripts/430099-plex-external-player-potplayer)
 
 #### PotPlayer扩展
 #### Part:1
@@ -47,7 +48,8 @@
 - windows10 (X64)
 ### Install
 #### Browser extension
-- 
+- [Browser extension installation](https://www.tampermonkey.net/)
+- [greasyfork:script](https://greasyfork.org/zh-CN/scripts/430099-plex-external-player-potplayer)
 
 #### PotPlayer extension
 #### Part:1
