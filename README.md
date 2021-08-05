@@ -1,7 +1,8 @@
 # Extension
 
 # [中文](#功能) [English](#Function) 
-
+# [汇报:问题&错误](https://github.com/Plex-External-Player-PotPlayer/Extension/issues)
+# [Report: Issues & Bugs](https://github.com/Plex-External-Player-PotPlayer/Extension/issues)
 
 ### <a id="功能">功能</a>
 - 与 Plex Media Server 同步播放进度
