@@ -41,34 +41,34 @@
 
 
 ### <a id="Function">Function</a>
--Synchronize playback progress with Plex Media Server
+- Synchronize playback progress with Plex Media Server
 ### Use environment
--windows7 (X64)
--windows10 (X64)
+- windows7 (X64)
+- windows10 (X64)
 ### Install
 #### Browser extension
--
+- 
 
 #### PotPlayer extension
 #### Part:1
--Download the project and unzip
--Rename the decompressed Extension-master to Extension
--Copy Extension to the installation directory of PotPlayerMini64.exe
+- Download the project and unzip
+- Rename the decompressed Extension-master to Extension
+- Copy Extension to the installation directory of PotPlayerMini64.exe
 #### Part:2
--Run PotPlayer player locally
--Press the keyboard << F5 >> to pop up the settings
+- Run PotPlayer player locally
+- Press the keyboard << F5 >> to pop up the settings
 #### Part:3
--Select the left menu <<Extended Functions>>
--Check: <<Start the Just-in-time Compiler >> and <<Update the extension when the program starts >>
+- Select the left menu << Extended Functions >>
+- Check: << Start the Just-in-time Compiler >> and << Update the extension when the program starts >>
 #### Part:4
--Select the left menu << Archive >>
--Modify << Playlist >> to the same level as the executable file of PotPlayerMini64.exe in the installation directory
+- Select the left menu << Archive >>
+- Modify << Playlist >> to the same level as the executable file of PotPlayerMini64.exe in the installation directory
 ```
    example: 
      D:\Program Files\DAUM\PotPlayer\Playlist
    Note:
      Playlist must exist in the path and cannot be modified
 ```
--Create a Playlist folder in the above path
+- Create a Playlist folder in the above path
 #### Part:5
--Click <<Apply>>, <<OK>> to exit the player
+- Click << Apply >>, << OK >> to exit the player
