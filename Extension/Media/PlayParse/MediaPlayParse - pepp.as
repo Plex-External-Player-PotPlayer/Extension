@@ -6,7 +6,7 @@
 
 string GetTitle()
 {
-	return "Plex External Player Pot Player";
+	return "Plex External Player PotPlayer";
 }
 
 string GetVersion()
@@ -16,7 +16,7 @@ string GetVersion()
 
 string GetDesc()
 {
-	return "https://github.com/Tosslog-admin/Plex-External-Player-Pot-Player";
+	return "https://github.com/Plex-External-Player-PotPlayer";
 }
 
 bool PlaylistCheck(const string &in path)
