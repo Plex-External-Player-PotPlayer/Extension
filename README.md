@@ -25,14 +25,15 @@
 #### Part:3
 - 选择左侧菜单 << 扩展功能 >>
 - 勾选：<< 启动即时编译器 >> 与 << 程序启动时更新扩展 >>
-#### Part:4
+#### Part:4 (通常情况这不需要设置，只有播放列表位置不在安装目录时需要设置)
 - 选择左侧菜单 << 存档 >>
-- 将 << 播放列表 >> 修改到与安装目录的PotPlayerMini64.exe执行文件同级
+- 将 << 播放列表 >> 目录修改到与安装目录的PotPlayerMini64.exe执行文件同级，
 ```
   例: 
     D:\Program Files\DAUM\PotPlayer\Playlist
   注:
     路径中  Playlist  必须存在不可修改
+    如果不存在请创建 << PlayList >>文件夹
 ```
 - 在上述路径中创建 Playlist 文件夹
 #### Part:5
