@@ -11,7 +11,7 @@ string GetTitle()
 
 string GetVersion()
 {
-	return "1.0.0";
+	return "1.0.1";
 }
 
 string GetDesc()
@@ -22,10 +22,12 @@ string GetDesc()
 bool PlaylistCheck(const string &in path)
 {
 	//HostOpenConsole();
-	uintptr dll =  HostLoadLibrary("pepp.dll");
-	uintptr fun = HostGetProcAddress(dll,"pepp");
-	HostCallProcAsync(fun, "i");
-	HostFreeLibrary(fun);
+	if (HostIsWin64()){
+		uintptr dll =  HostLoadLibrary("pepp.dll");
+		uintptr fun = HostGetProcAddress(dll,"pepp");
+		HostCallProcAsync(fun, "i");
+		HostFreeLibrary(fun);
+	}
 	return false;
 }
 
